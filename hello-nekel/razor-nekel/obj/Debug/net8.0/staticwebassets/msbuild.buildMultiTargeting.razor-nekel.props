@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/razor-nekel.props" />
+</Project>

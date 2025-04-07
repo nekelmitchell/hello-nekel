@@ -1,0 +1,15 @@
+/workspaces/hello-nekel/hello-nekel/bin/Debug/net8.0/hello-nekel
+/workspaces/hello-nekel/hello-nekel/bin/Debug/net8.0/hello-nekel.deps.json
+/workspaces/hello-nekel/hello-nekel/bin/Debug/net8.0/hello-nekel.runtimeconfig.json
+/workspaces/hello-nekel/hello-nekel/bin/Debug/net8.0/hello-nekel.dll
+/workspaces/hello-nekel/hello-nekel/bin/Debug/net8.0/hello-nekel.pdb
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/hello-nekel.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/hello-nekel.AssemblyInfoInputs.cache
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/hello-nekel.AssemblyInfo.cs
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/hello-nekel.csproj.CoreCompileInputs.cache
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/hello-nekel.sourcelink.json
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/hello-nekel.dll
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/refint/hello-nekel.dll
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/hello-nekel.pdb
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/hello-nekel.genruntimeconfig.cache
+/workspaces/hello-nekel/hello-nekel/obj/Debug/net8.0/ref/hello-nekel.dll
